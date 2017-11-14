@@ -1,0 +1,8 @@
+[package]
+authors = ["panicbit <panicbit.dev@gmail.com>"]
+name = "picasso"
+version = "0.1.0"
+
+[dependencies]
+failure = { git = "https://github.com/withoutboats/failure" }
+failure_derive = { git = "https://github.com/withoutboats/failure_derive" }
